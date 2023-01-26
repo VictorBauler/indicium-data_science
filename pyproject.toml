@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "indicium-data-science"
+version = "0.1.0"
+description = ""
+authors = ["VictorBauler <victor.bauler@gmail.com>"]
+readme = "README.md"
+packages = [{include = "indicium_data_science"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+ipykernel = "^6.20.2"
+pandas = "^1.5.3"
+scikit-learn = "^1.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
