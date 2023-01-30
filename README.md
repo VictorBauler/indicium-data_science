@@ -5,7 +5,7 @@ Seu objetivo é identificar quais máquinas apresentam potencial de falha tendo 
 
 - Clone este repositório
 ```git
-git clone https://github.com/VictorBauler/argyle_scanning_task.git
+git clone https://github.com/VictorBauler/indicium-data_science.git
 ```
 
 ## Instalação
